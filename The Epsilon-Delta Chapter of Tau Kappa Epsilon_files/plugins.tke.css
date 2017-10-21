@@ -1,0 +1,69 @@
+/*
+* Template Name: Unify - Responsive Bootstrap Template
+* Version: 1.9
+* Author: @htmlstream
+* Website: http://htmlstream.com
+*/
+
+
+
+.counters span.counter-icon i {
+
+   background: #AD2624;
+}
+.counters span.counter-icon i:after {
+    border-top: 7px solid #AD2624;
+}
+#topcontrol:hover {
+  background: #AD2624;
+}
+
+/*Owl Carousel
+------------------------------------*/
+
+.owl-btn:hover {
+  background: #AD2624;
+}
+
+/*Owl Carousel v1*/
+
+/*Owl Carousel v2*/
+
+/*Owl Carousel v3*/
+/*Owl Carousel v5*/
+
+.owl-carousel-v5 .owl-controls .owl-page.active span,
+.owl-carousel-v5 .owl-controls.clickable .owl-page:hover span {
+  background: #AD2624;
+}
+
+/*Owl Carousel - Testimonials v3
+------------------------------------*/
+/*Testimonials Section*/
+.testimonials-v3 .testimonials-v3-title p {
+  color: #AD2624;
+}
+
+
+.testimonials-v3 .owl-buttons .owl-prev:hover,
+.testimonials-v3 .owl-buttons .owl-next:hover {
+  background: #AD2624;
+}
+
+/*Recent Works (Owl Carousel)
+------------------------------------*/
+
+
+.owl-work-v1 .item a:hover span {
+    border-bottom: solid 2px #AD2624;
+}
+
+/*Parallax Twitter (Owl Carousel)
+------------------------------------*/
+
+
+/*Clients Section (Owl Carousel)
+------------------------------------*/
+
+/*Owl Video
+------------------------------------*/

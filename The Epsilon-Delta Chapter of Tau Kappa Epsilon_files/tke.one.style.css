@@ -1,0 +1,246 @@
+/*
+* Template Name: Unify - Responsive Bootstrap Template
+* Version: 1.9
+* Author: @htmlstream
+* Website: http://htmlstream.com
+*/
+
+/*Import Global Compulsory CSS Files*/
+
+/*h1, h2, h3, h4, h5, h6 {
+  color: #FFF;
+}*/
+
+/*p,
+li,
+li a {
+  color:#FFF;
+}*/
+
+a {
+  color: #AD2624;
+}
+
+
+a:hover {
+  color: #AD2624;
+}
+
+::selection {
+  color: #fff;
+  background: #AD2624;
+}
+
+
+.one-page-header .navbar-brand span {
+  color: #AD2624 !important;
+}
+
+
+.one-page-header .navbar-nav > li > a:hover {
+  color: #AD2624;
+}
+
+.one-page-header .navbar-nav > li > a:focus {
+  color: #AD2624;
+}
+
+.one-page-header .navbar-nav > .active > a,
+.one-page-header .navbar-nav > .active > a:hover,
+.one-page-header .navbar-nav > .active > a:focus,
+.one-page-header .dropdown-menu > .active > a,
+.one-page-header .dropdown-menu > .active > a:hover,
+.one-page-header .dropdown-menu > .active > a:focus,
+.one-page-header.top-nav-collapse .dropdown-menu > .active > a,
+.one-page-header.top-nav-collapse .dropdown-menu > .active > a:hover,
+.one-page-header.top-nav-collapse .dropdown-menu > .active > a:focus {
+
+  color: #AD2624 !important;
+}
+
+.log-reg-block a:hover {
+  color: #AD2624;
+  z-index: 1;
+}
+
+  .one-page-header.top-nav-collapse .dropdown-menu > li > a:hover {
+    color: #AD2624;
+  }
+
+  .one-page-header .dropdown-menu a:hover,
+  .one-page-header.top-nav-collapse .dropdown-menu > li > a:hover {
+    color: #AD2624 !important;
+  }
+
+.log-reg-block-simple .btn-u:hover,
+.top-nav-collapse .log-reg-block-simple .btn-u:hover {
+  color: #fff;
+  background: #AD2624;
+  border-color: #AD2624;
+}
+
+
+.one-page-header.top-nav-collapse .navbar-toggle:hover .icon-bar {
+  background: #AD2624;
+}
+
+
+.cube-portfolio #filters-container .cbp-filter-item-active {
+  background: #AD2624;
+  border-color: #AD2624;
+}
+
+.cube-portfolio .cbp-l-filters-button .cbp-filter-counter {
+  
+  background: #AD2624;
+}
+
+.cube-portfolio .cbp-l-filters-button .cbp-filter-counter:before {
+  border-top-color: #AD2624;
+}
+
+.promo-section {
+  position: relative;
+}
+.backstretch:after {
+  background: rgba(0,0,0,0.2);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  display: block;
+  content: "";
+}
+.promo-section h2 {
+  color: #fff;
+  font-size: 35px;
+  line-height: 1.1;
+  font-weight: 200;
+  padding: 10px 75px;
+  position: relative;
+  border-top: solid 1px #fff;
+  border-bottom: solid 1px #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.promo-section h2:after,
+.promo-section h2:before {
+  font-size: 16px;
+  content: "\f005";
+  position: absolute;
+  font-family: FontAwesome;
+  position: absolute;
+  top: 50%;
+  margin-top: -8px;
+}
+.promo-section h2:after {
+  right: 4%;
+}
+.promo-section h2:before {
+  left: 4%;
+}
+.promo-text {
+  color: #fff;
+  position: relative;
+  font-size: 26px;
+  font-weight: 200;
+  line-height: 40px;
+  padding: 10px 50px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+.promo-text:after {
+  left: 50%;
+  content: "";
+  height: 1px;
+  width: 100px;
+  bottom: -10px;
+  background: #fff;
+  margin-left: -50px;
+  position: absolute;
+}
+
+.promo-next {
+  text-align: center;
+}
+.promo-next a {
+  margin: 0 5px;
+  padding: 7px 20px;
+  text-transform: uppercase;
+}
+
+.promo-section h2,
+.promo-text,
+.promo-next {
+  opacity: .9;
+}
+
+@media (max-width: 600px) {
+  .promo-section h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+  }
+  .promo-text {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-bottom: 20px;
+  }
+  .promo-text:after {
+    display: none;
+  }
+}
+
+.contacts-section2 {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  font-size: 15px;
+}
+.contacts-section2 h2 {
+  color: #444;
+  font: 28px "Open Sans",sans-serif;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  position: relative;
+  text-transform: uppercase;
+}
+.contacts-section2 .lead {
+  font-size: 18px;
+}
+.contacts-section2 i {
+  float: left;
+  margin-right: 15px;
+}
+.contacts-section2 h6 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 5px;
+}
+
+.footer-simple {
+  padding: 20px 0;
+  border-top: 1px solid #eee;
+}
+.footer-simple p {
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+.footer-simple .social-icons {
+  margin-top: 10px;
+}
+.footer-simple .social-icons li {
+  margin-bottom: 0;
+}
+
+.what-people-say .testimonials-v6 .testimonials-info {
+  background: #f7f7f7;
+}
+.what-people-say .testimonials-v6.testimonials-wrap {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/*Spaces
+------------------------------------*/
+.padding-top-60 {
+  padding-top: 60px;
+}

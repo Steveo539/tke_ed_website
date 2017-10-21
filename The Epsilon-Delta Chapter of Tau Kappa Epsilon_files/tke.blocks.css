@@ -1,0 +1,179 @@
+/*
+* Template Name: Unify - Responsive Bootstrap Template
+* Version: 1.9
+* Author: @htmlstream
+* Website: http://htmlstream.com
+*/
+
+/*Breadcrumbs
+------------------------------------*/
+/*Default Breadcrumbs*/
+
+.breadcrumb li.active,
+.breadcrumb li a:hover {
+  color: #AD2624;
+}
+
+
+.block-grid-v1:hover {
+  border-color: #AD2624;
+}
+
+.block-grid-v2 li:hover .block-grid-v2-info {
+  border-color: #AD2624;
+}
+
+
+.service-box-v1 p:after {
+
+  background: #AD2624;
+}
+
+
+.service-box-v1 li {
+
+  border-top: dotted 1px #AD2624;
+}
+
+.service-box-v1 li:hover {
+  color: #AD2624;
+}
+
+
+.service-block-v1 i {
+
+  background: #AD2624;
+}
+
+
+.service-block-v4 .service-desc i {
+  color: #AD2624;
+ 
+}
+
+
+.service-block-v7 i {
+
+  background: #AD2624;
+}
+
+
+.service-block-v8 .service-block-desc h3:after {
+
+  background: #AD2624;
+}
+
+
+.team-v1 li:hover > p:before {
+  width: 100%;
+  background: #AD2624;
+}
+
+
+.team-v4 .team-social-v4 a:hover {
+  color: #AD2624;
+  text-decoration: none;
+}
+
+/*Team v5
+------------------------------------*/
+.team-v5 small {
+
+  color: #AD2624;
+  font-size: 13px;
+}
+
+
+.team-v6 small {
+  color: #AD2624;
+
+}
+
+/*Team v7
+------------------------------------*/
+.team-v7 .team-v7-position {
+  color: #AD2624;
+}
+
+
+
+.portfolio-box .portfolio-box-in i {
+   
+    background: #AD2624;
+}
+
+
+.portfolio-box small.project-tag a:hover {
+  color: #AD2624;
+}
+
+.thumbnails-v1 .read-more {
+  color: #AD2624;
+
+}
+
+.flat-bg-block-v1 .checked-list i {
+  color: #AD2624;
+}
+
+.testimonials-v5 .testimonials-by small {
+  color: #AD2624;
+}
+
+
+.testimonials-v6 .testimonials-info:hover {
+    border-color: #AD2624;
+}
+
+
+.featured-blog h2:after {
+ 
+  background: #AD2624;
+}
+
+
+.featured-blog .featured-img i:hover {
+  background: #AD2624;
+}
+
+
+.quote-v1 p:before {
+  color: #AD2624;
+}
+
+
+.social-icons-v1 i:hover {
+  background: #AD2624;
+}
+
+.blog-trending small a:hover {
+  color: #AD2624;
+}
+
+
+.news-v1 h3 a:hover {
+  color: #AD2624;
+}
+
+.news-v1 .news-v1-info li a:hover {
+  color: #AD2624;
+}
+
+.news-v2 .news-v2-desc h3 a:hover {
+  color: #AD2624;
+}
+
+.news-v3 h2 a:hover {
+  color: #AD2624;
+}
+
+
+.news-v3 .posted-info li a:hover {
+  color: #AD2624;
+}
+
+
+.news-v3 .post-shares li span {
+ 
+  background: #AD2624;
+}

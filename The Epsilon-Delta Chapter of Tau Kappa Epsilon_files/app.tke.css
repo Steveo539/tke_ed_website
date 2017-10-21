@@ -1,0 +1,456 @@
+/*
+* Template Name: Unify - Responsive Bootstrap Template
+* Version: 1.9
+* Author: @htmlstream
+* Website: http://htmlstream.com
+*/
+
+/*Reset Styles
+------------------------------------*/
+
+.headline h2,
+.headline h3,
+.headline h4 {
+  display: block;
+  margin: 10px 0 25px 0;
+  border-bottom:  1px solid #AD2624;
+}
+
+.headline-dk-rd{
+color: #AD2624;
+text-transform:uppercase;
+}
+
+
+/*Heading Options*/
+.title-v1 h1:after,
+.title-v1 h2:after {
+
+	background: #AD2624;
+}
+.headline-center h2:after {
+	
+	background: #AD2624;
+}
+
+
+.headline-left .headline-brd:after {
+	
+	background: #AD2624;
+}
+
+
+/*Tabs v1
+------------------------------------*/
+.tab-v1 .nav-tabs {
+	border: none;
+	background: none;
+	border-bottom: solid 2px #AD2624;
+}
+
+.tab-v1 .nav-tabs a {
+	font-size: 14px;
+	padding: 5px 15px;
+}
+
+.tab-v1 .nav-tabs > .active > a,
+.tab-v1 .nav-tabs > .active > a:hover,
+.tab-v1 .nav-tabs > .active > a:focus {
+	
+	background: #AD2624;
+}
+
+.tab-v1 .nav-tabs > li > a:hover {
+	background: #AD2624;
+}
+
+/*Tabs v2
+------------------------------------*/
+
+.tab-v2 .nav-tabs li.active a {
+
+	border-top: solid 2px #AD2624;
+
+}
+
+
+/*Tabs v3
+------------------------------------*/
+
+.tab-v3 .nav-pills li a:hover,
+.tab-v3 .nav-pills li.active a {
+
+	background: #AD2624;
+	
+}
+
+
+/*Tab v4
+------------------------------------*/
+/*Accordions
+------------------------------------*/
+/*Navigation
+------------------------------------*/
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+	 border-color: #AD2624;
+	 background-color: #AD2624;
+}
+
+/*Pagination Without Space*/
+
+/*Pager v2 and v3
+------------------------------------*/
+.pager.pager-v2 li > a:hover,
+.pager.pager-v2 li > a:focus,
+.pager.pager-v3 li > a:hover,
+.pager.pager-v3 li > a:focus {
+	 background: #AD2624;
+}
+
+
+
+
+/*Sidebar Sub Navigation*/
+
+.sidebar-nav-v1 ul li:hover a,
+.sidebar-nav-v1 ul li.active a {
+	color: #AD2624;
+}
+
+/*Button Styles*/
+
+.btn-u {
+	
+	 background: #AD2624;
+}
+
+
+/*Buttons Color*/
+
+.btn-u.btn-u-red {
+	 background: #AD2624;
+}
+
+.btn-u.btn-brd {
+	border-color: #AD2624;
+}
+
+.btn-u.btn-brd.btn-u-red {
+	border-color: #AD2624;
+}
+
+/*Dropdown Buttons
+------------------------------------*/
+
+span.label-u,
+span.badge-u,
+.list-group-item.active>.badge.badge-u {
+	background: #AD2624;
+}
+
+
+span.label-red,
+span.badge-red,
+.list-group-item.active>.badge {
+	background: #AD2624;
+}
+
+span.label-green,
+span.badge-green,
+.list-group-item.active>.badge.badge-green {
+	background: #2ecc71;
+}
+
+
+.link-icon:hover i {
+	color: #AD2624;
+	background: none;
+	border: solid 1px #AD2624;
+}
+
+.link-bg-icon:hover i {
+	color: #AD2624;
+	background: #AD2624;
+	border-color: #AD2624;
+}
+
+/*Icons Color*/
+i.icon-color-u {
+	 color: #AD2624;
+	 border: solid 1px #AD2624;
+}
+i.icon-color-red {
+	 color: #AD2624;
+	 border: solid 1px #AD2624;
+}
+
+/*Icons Backgroun Color*/
+
+i.icon-bg-u {
+	 background: #AD2624;
+}
+i.icon-bg-red {
+	 background: #AD2624;
+}
+
+.content-boxes-v4 i {
+	color: #AD2624;
+}
+
+.content-boxes-v5:hover i {
+	background: #AD2624;
+}
+
+
+.content-boxes-v6:hover i,
+.content-boxes-v6:hover i:after {
+	-webkit-transition: all 0.3s ease-in-out;
+		-moz-transition: all 0.3s ease-in-out;
+		-o-transition: all 0.3s ease-in-out;
+		transition: all 0.3s ease-in-out;
+}
+
+.content-boxes-v6:hover i {
+	background: #AD2624;
+}
+
+.content-boxes-v6:hover i:after {
+	border-color: #AD2624;
+}
+
+/*Colored Content Boxes*/
+.service-block-u {
+	background: #AD2624;
+}
+.service-block-red {
+	background: #AD2624;
+}
+
+.funny-boxes p a {
+	color: #AD2624;
+}
+
+
+.funny-boxes .funny-boxes-img li i {
+	color: #AD2624;
+}
+
+/*Red Funny Box*/
+.funny-boxes-red {
+	background: #AD2624;
+}
+
+
+
+/*Red Top Bordered Funny Box**/
+.funny-boxes-top-red {
+	border-top: solid 2px #AD2624;
+}
+
+/*Green Left Bordered Funny Box**/
+.funny-boxes-left-green {
+	border-left: solid 2px #AD2624;
+}
+
+
+.dropcap-bg {
+	
+	background: #AD2624;
+}
+
+/*Text Highlights*/
+.text-highlights-green {
+	 background: #AD2624;
+}
+}
+.text-highlights-red {
+	 background: #AD2624;
+}
+/*Text Borders*/
+.text-border-green {
+	 border-color: #AD2624;
+}
+.text-border-red {
+	 border-color: #AD2624;
+}
+
+blockquote:hover,
+blockquote.text-right:hover {
+	border-color: #AD2624;
+}
+
+blockquote.bq-dark,
+
+blockquote.bq-green {
+	border-color: #AD2624;
+}
+
+
+blockquote.hero.hero-default {
+	background: #AD2624;
+}
+
+
+blockquote.hero-dk-red{
+    border-left:solid 2px #ad2624;
+    color:#ad2624;
+}
+
+
+/*Tag Boxes v1*/
+.tag-box-v1 {
+	border-top: solid 2px #AD2624;
+}
+
+/*Tag Boxes v2*/
+.tag-box-v2 {
+	border-left: solid 2px #AD2624;
+}
+
+
+/*Tag Boxes v7*/
+.tag-box-v7 {
+	border-bottom: solid 2px #AD2624;
+}
+
+/*Testimonials
+------------------------------------*/
+/*Testimonials*/
+.testimonials .testimonial-info {
+	color: #AD2624;
+}
+
+.testimonials .carousel-arrow i:hover {
+	background: #AD2624;
+}
+
+.testi
+
+/*Testimonials v1*/
+.testimonials.testimonials-v1 .item p {
+	position: relative;
+}
+
+.testimonials.testimonials-v1 .item p:after,
+.testimonials.testimonials-v1 .item p:before {
+	left: 80px;
+	bottom: -20px;
+}
+
+.testimonials.testimonials-v1 .item p:after {
+	border-top: 22px solid;
+	border-left: 0 solid transparent;
+	border-right: 22px solid transparent;
+}
+
+/*Testimonials v2*/
+/*Testimonials Default*/
+.testimonials-bg-default .item p {
+	background: #AD2624;
+}
+
+.testimonials.testimonials-bg-default .item p:after,
+.testimonials.testimonials-bg-default .item p:after {
+	border-top-color: #AD2624;
+}
+
+.testimonials-bg-default .carousel-arrow i {
+	background: #AD2624;
+}
+
+/*Panels (Portlets)
+------------------------------------*/
+
+/*Panel Unify*/
+.panel-u {
+	 border-color: #AD2624;
+}
+
+.panel-u > .panel-heading {
+	 background: #AD2624;
+}
+
+/*Panel Blue*/
+/*Panel Red*/
+.panel-red {
+	 border-color: #AD2624;
+}
+
+.panel-red > .panel-heading {
+	 background: #AD2624;
+}
+
+/*Progress Bar
+------------------------------------*/
+
+.progress-bar-u {
+	background: #AD2624;
+}
+
+.progress-bar-red {
+	background: #AD2624;
+}
+
+/*Progress Bar Animation*/
+
+/*Count Stars
+------------------------------------*/
+.stars-existing {
+	color: #AD2624;
+}
+
+/*Media (Audio/Videos and Images)
+------------------------------------*/
+/*Images*/
+
+/*Tags v1
+------------------------------------*/
+
+/*Tags v2
+------------------------------------*/
+
+/*Tags v3
+------------------------------------*/
+/*Tags v4
+------------------------------------*/
+
+
+/*Lists
+------------------------------------*/
+
+.lists-v1 i {
+	
+	background: #AD2624;
+	
+}
+
+/*Lists v2*/
+.lists-v2 i {
+	color: #AD2624;
+}
+
+/*Column Sizes
+------------------------------------*/
+/*Remove the Gutter Padding from Columns*/
+/*Text Colors
+------------------------------------*/
+.color-red { color: #AD2624;}
+.color-green { color: #AD2624;}
+
+/*Background Colors
+------------------------------------*/
+.bg-color-primary { background-color: #AD2624 !important;}
+.bg-color-red { background-color: #AD2624 !important;}
+.bg-color-green { background-color: #AD2624 !important;}
+
+
+/*Grey Backroud*/
+
+/*Rounded and Circle Classes
+------------------------------------*/

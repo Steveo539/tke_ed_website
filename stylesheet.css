@@ -5,7 +5,7 @@ html{
 }
 
 body{
-  overflow-x: hidden;
+  overflow-x:scroll;
   margin: 0;
   padding: 0;
   display: block;
@@ -196,7 +196,6 @@ div h1{
   text-decoration: none;
 
 }
-
 
 .my-float{
   position: relative;
